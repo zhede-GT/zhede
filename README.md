@@ -1,4 +1,5 @@
-# zhede
-呜呜
-401
-1321253131
+<body background="background.jpg"
+style=" background-repeat:no-repeat ;
+background-size:100% 100%;
+background-attachment: fixed;"
+>
